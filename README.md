@@ -5,6 +5,7 @@
 - 🌱 Continuously learning and exploring new technologies
 - 👯 Looking to collaborate on open source projects
 - 🔭 Working on creating innovative applications that solve real-world problems
+- 🌐 Visit my website: [merkulov.ai](https://merkulov.ai)
 
 ## Tech Stack
 ```
@@ -21,7 +22,7 @@
 ## Connect With Me
 - [LinkedIn](https://linkedin.com/in/yourusername)
 - [Twitter](https://twitter.com/yourusername)
-- [Portfolio](https://yourportfolio.com)
+- [Portfolio](https://merkulov.ai)
 
 ## Recent Projects
 - [Project 1](https://github.com/all-mute/project1) - Brief description
